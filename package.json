@@ -1,0 +1,19 @@
+{
+  "name": "http-crud-operation",
+  "version": "1.0.0",
+  "description": "a simple crud operation using the http module",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "jokes",
+    "request",
+    "response"
+  ],
+  "author": "ikay14",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
